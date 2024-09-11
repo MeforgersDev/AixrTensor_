@@ -1,8 +1,8 @@
 # 🧠 **AixrTensor** - The Next-Gen AI Tensor Library
 
-[![License](https://img.shields.io/github/license/MeforgersDev/AixrTensor_)](LICENSE)
+[![License](https://img.shields.io/github/license/MeforgersDev/AixrTensor)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
-[![GitHub issues](https://img.shields.io/github/issues/MeforgersDev/Aixrtensor_)](https://github.com/MeforgersDev/AixrTensor_/issues)
+[![GitHub issues](https://img.shields.io/github/issues/MeforgersDev/Aixrtensor)](https://github.com/MeforgersDev/AixrTensor/issues)
 
 AixrTensor is a **customizable and dynamic tensor library** designed to outperform TensorFlow with enhanced memory management, dynamic model structures, automated hyperparameter tuning, and simplified AI training workflows. Build, train, and deploy your machine learning models with **efficiency** and **ease**!
 
