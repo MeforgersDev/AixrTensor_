@@ -10,7 +10,7 @@ AixrTensor is a **customizable and dynamic tensor library** designed to outperfo
 
 ## 🌟 **Key Features**
 
-- **Automatic Device Selection**: Automatically selects the best available hardware (CPU, GPU, or TPU) for optimal performance.
+- **Automatic Device Selection**: Automatically selects the best available hardware (CPU, GPU or TPU) for optimal performance.
 - **Mixed Precision Training**: Supports `float16` and `float32` for memory optimization without sacrificing accuracy.
 - **Dynamic Model Structure**: Modify your neural network's structure during training! Add or remove layers as needed.
 - **Automated Hyperparameter Tuning**: Built-in random and grid search for automatic hyperparameter optimization.
